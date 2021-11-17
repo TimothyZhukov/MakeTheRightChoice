@@ -1,0 +1,2 @@
+com/timlab/maketherightchoice/BuildConfig.java
+ com.timlab.maketherightchoice.BuildConfig
